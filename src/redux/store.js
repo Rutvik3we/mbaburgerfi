@@ -16,4 +16,4 @@ const store = configureStore({
 
 export default store;
 
-export const server = "https://mbaburger-izk6.vercel.app/api/v1";
+export const server = "https://mbaburgermaxr.vercel.app/api/v1";
